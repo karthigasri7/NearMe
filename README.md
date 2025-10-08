@@ -26,135 +26,155 @@ Execute the programs and publish them.
 
 ## CODE
 map.html
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>sample page</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-    <h1 align="center">
-        <font color="blue"><b>TENKASI</b></font>
-    </h1>
-    <h2 align="center">
-        <font color="blue"><b>KARTHIGA SRI</b></font>
-    </h2>
-    <center>
-        <img src="Screenshot 2025-10-08 012027.png" usemap="#image-map" height="800" width="1500">
+    <img src="Screenshot 2025-10-08 204326.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="Krishna tourist home" title="Krishna tourist home" href="touristhome.html" coords="948,128,1152,164" shape="rect">
-    <area target="" alt="Zamin resort" title="Zamin resort" href="resort.html" coords="234,466,314,492,314,520,244,535,166,514,164,483" shape="poly">
-    <area target="" alt="Yasuragi boutique resort" title="Yasuragi boutique resort" href="boutique.html" coords="92,240,88" shape="circle">
-    <area target="" alt="Drizzle residence" title="Drizzle residence" href="residence.html" coords="588,695,684,739" shape="rect">
-    <area target="" alt="Mount zion holiday" title="Mount zion holiday" href="hotel.html" coords="745,456,71" shape="circle">
+    <area target="" alt="home town" title="home town" href="ko.html" coords="637,328,835,502" shape="rect">
+    <area target="" alt="electrical famous" title="electrical famous" href="po.html" coords="1222,471,1070,325" shape="rect">
+    <area target="" alt="famous of temple" title="famous of temple" href="gut.html" coords="90,404,235,522" shape="rect">
+    <area target="" alt="super market" title="super market" href="na.html" coords="1231,156,1390,325" shape="rect">
+    <area target="" alt="textiles" title="textiles" href="ka.html" coords="462,738,678,838" shape="rect">
 </map>
-        </map>
-    </center>
+</body>
+</html>
+ko.html
+<html>
+<head>
+<title>My Home Town</title>
+</head>
+<body bgcolor="cyan">
+<h1 align="center">
+<font color="red"><b>NATTRAMPALLI</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>kothur - Home Town</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Georgia" size="5">
+Kothur is a village in the Natrampalli Taluk of Tamil Nadu, located within what was formerly the Vellore district and is now part of the Tirupathur district. Natrampalli is a town and administrative hub for the surrounding villages, with agricultural activities as a key economic driver. 
+</font>
+</p>
+</body>
+</html>
+na.html
+<html>
+<head>
+<title>supermarket</title>
+</head>
+<body bgcolor="red">
+<h1 align="center">
+<font color="red"><b>NATTRAMPALLI</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>sorakayalnatham - super market</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Georgia" size="5">
+- Sorakayalnatham is a village in Natrampalli Block, part of Tirupattur Taluka.
+- It falls under the Sorakayalnatham Gram Panchayat and is governed locally by this body.
+- The pincode for the village is 635854.
+- The nearest town for major economic activities is Natrampalli, located about 3–5 km away.
+
+
+</font>
+</p>
+</body>
+</html>
+ka.html
+<html>
+<head>
+<title>textiles</title>
+</head>
+<body bgcolor="cyan">
+<h1 align="center">
+<font color="red"><b>NATTRAMPALLI</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>bargur - textiles</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Georgia" size="5">
+Bargur textiles refer to the fabric markets and vendors in Bargur, a town in Krishnagiri district, Tamil Nadu, known for its diverse textile offerings including cotton and silk, and a wide range of ready-made garments. The Bargur Textile Market is a hub for retailers and offers various types of fabric and clothes for all ages at reasonable prices. 
+</font>
+</p>
+</body>
+</html>
+po.html
+<html>
+<head>
+<title>electrical famous</title>
+</head>
+<body bgcolor="red">
+<h1 align="center">
+<font color="red"><b>NATTRAMPALLI</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>pathur-electrical famous</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Georgia" size="5">
+ - Patchur is a small village in Natrampalli Block, previously part of Vellore District, now under Tirupattur District.
+- It falls under the Patchur Panchayat and is located about 10 km from Natrampalli town.
+- The PIN code is 635854, and the postal head office is also in Patchur.
+
+
+</font>
+</p>
 </body>
 </html>
 
-boutique.html
+gut.html
+
 <html>
-    <head>
-        <title>boutique</title>
-    </head>
-    <body bgcolor="green">
-        <h1 align="center">
-         <font color="blue"><b>TENKASI</b></font>  
-        </h1>
-        <h3 align="center">
-            <font color="black"<b>Yasuragi boutique resort</b>
-        </h3>
-        <hr>
-        <p font color="black">The Yasuragi Boutique Resort in Shencottah, Tamil Nadu, offers a tranquil escape with air-conditioned rooms, a swimming pool, a garden, and on-site dining. Located near attractions like Palaruvi Waterfall and Courtallam Falls, it provides various accommodation options, including family rooms and luxury suites, with amenities like free Wi-Fi, a restaurant serving local cuisine, and paid services such as airport shuttles and cycling rentals. </p>
-        
-    </body>
+<head>
+<title>temple</title>
+</head>
+<body bgcolor="red">
+<h1 align="center">
+<font color="red"><b>NATTRAMPALLI</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>gutleeti - temple</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Georgia" size="5">
+
+- Gutletti is one of the villages under the Natrampalli revenue block in Tirupattur district.
+- It is governed by a local Gram Panchayat and falls under the jurisdiction of Tirupattur Taluka.
+- The village is part of the Jolarpettai Assembly Constituency and Tiruvannamalai Lok Sabha Constituency
+</font>
+</p>
+</body>
 </html>
 
-hotel.html
-<html>
-    <head>
-        <title>Resort</title>
-    </head>
-    <body bgcolor="grey">
-        <h1 align="center">
-         <font color="blue"><b>TENKASI</b></font>  
-        </h1>
-        <h3 align="center">
-            <font color="black"<b>Mount zion holiday</b>
-        </h3>
-        <hr>
-        <p font color="black">"Shenkottai Mount Zion Holiday" refers to a hotel in Tirunelveli, Tamil Nadu, that offers accommodation with a focus on nature and peace, featuring rooms with balconies and air conditioning, and is suitable for peace-lovers. While "Mount Zion Adventure Holidays" is a separate vacation rental in the Palakkad district of Kerala, the user's query likely points to the Tirunelveli property. </p>
-        
-    </body>
-</html>
-
-residence.html
-<html>
-    <head>
-        <title>Residence</title>
-    </head>
-    <body bgcolor="orange">
-        <h1 align="center">
-         <font color="blue"><b>TENKASI</b></font>  
-        </h1>
-        <h3 align="center">
-            <font color="black"<b>Drizzle residence</b>
-        </h3>
-        <hr>
-        <p font color="black">Drizzle Residence is a luxury hotel in Courtallam, Tamil Nadu, known for its picturesque location near waterfalls and dams, modern facilities including unique OTT projector rooms, and a range of services like room service, a doctor on call, and personalized concierge service. Founded in 2024, it offers a blend of comfort and nature with a mission to provide personalized, unforgettable experiences, focusing on exceptional service and setting new standards in excellence.  </p>
-        
-    </body>
-</html>
-
-resort.html
-<html>
-    <head>
-        <title>Zamin resort</title>
-    </head>
-    <body bgcolor="cyan">
-        <h1 align="center">
-         <font color="blue"><b>TENKASI</b></font>  
-        </h1>
-        <h3 align="center">
-            <font color="black"<b>Zamin resort-Resort</b>
-        </h3>
-        <hr>
-        <p font color="black">Krishna Tourist Home is a hotel located in Tenkasi, Tamil Nadu, offering amenities like free parking, WiFi, and an on-site restaurant. The hotel provides a comfortable, home-like atmosphere, with 24-hour room service, luggage storage, and safety deposit boxes available for guests</p>
-        
-    </body>
-</html>
-
-touristhome.html
-<html>
-    <head>
-        <title>Krishna tourist home-Resort</title>
-    </head>
-    <body bgcolor="yellow">
-        <h1 align="center">
-         <font color="blue"><b>TENKASI</b></font>  
-        </h1>
-        <h3 align="center">
-            <font color="black"<b>Krishna tourist home-Resort</b>
-            </h3>
-        <hr>
-        <p font color="black">Krishna Tourist Home is a hotel located in Tenkasi, Tamil Nadu, offering amenities like free parking, WiFi, and an on-site restaurant. The hotel provides a comfortable, home-like atmosphere, with 24-hour room service, luggage storage, and safety deposit boxes available for guests</p>
-        
-    </body>
-</html>
 
 
 
 
 
 ## OUTPUT
+![alt text](<Screenshot 2025-10-08 215057.png>)
+![alt text](<Screenshot 2025-10-08 215112.png>)
+![alt text](<Screenshot 2025-10-08 215125.png>)
+![alt text](<Screenshot 2025-10-08 215138.png>)
+![alt text](<Screenshot 2025-10-08 215151.png>)
+![alt text](<Screenshot 2025-10-08 220823.png>)
 
-![alt text](<preethi/preethi/static/Screenshot 2025-10-08 012027.png>)
-![alt text](<preethi/preethi/static/Screenshot 2025-10-08 014544.png>)
-![alt text](<preethi/preethi/static/Screenshot 2025-10-08 014606.png>)
-![alt text](<preethi/preethi/static/Screenshot 2025-10-08 014618.png>)
-![alt text](<preethi/preethi/static/Screenshot 2025-10-08 014631.png>)
-![alt text](<preethi/preethi/static/Screenshot 2025-10-08 014646.png>)
+
+
 
 
 
