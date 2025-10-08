@@ -25,7 +25,9 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 map.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,6 +49,7 @@ map.html
 </html>
 
 ko.html
+
 <html>
 <head>
 <title>My Home Town</title>
@@ -66,7 +69,9 @@ Kothur is a village in the Natrampalli Taluk of Tamil Nadu, located within what 
 </p>
 </body>
 </html>
+
 na.html
+
 <html>
 <head>
 <title>supermarket</title>
@@ -91,7 +96,9 @@ na.html
 </p>
 </body>
 </html>
+
 ka.html
+
 <html>
 <head>
 <title>textiles</title>
@@ -111,7 +118,9 @@ Bargur textiles refer to the fabric markets and vendors in Bargur, a town in Kri
 </p>
 </body>
 </html>
+
 po.html
+
 <html>
 <head>
 <title>electrical famous</title>
@@ -160,7 +169,7 @@ gut.html
 </p>
 </body>
 </html>
-
+```
 
 
 
