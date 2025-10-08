@@ -45,6 +45,7 @@ map.html
 </map>
 </body>
 </html>
+
 ko.html
 <html>
 <head>
